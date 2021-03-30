@@ -17,7 +17,7 @@ cryptography==3.3.2
     # via
     #   ansible
     #   paramiko
-ecdsa==0.13
+ecdsa==0.13.3
     # via -r requirements.in
 enum34==1.1.10
     # via cryptography
