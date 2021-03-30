@@ -23,7 +23,7 @@ enum34==1.1.10
     # via cryptography
 ipaddress==1.0.23
     # via cryptography
-jinja2==2.10
+jinja2==2.11.3
     # via
     #   -r requirements.in
     #   ansible
